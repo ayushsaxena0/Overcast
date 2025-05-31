@@ -90,7 +90,11 @@ async function findWeather(e) {
 
     document.querySelector("#grid-three").innerHTML = gridThree;
   } catch (error) {
-    console.error(error);
+    const toastElement = document.getElementById("errorToast");
+    const toast = new bootstrap.Toast(toastElement, {
+      delay: 3000, // hide after 3 seconds
+    });
+    toast.show();
   }
 }
 
