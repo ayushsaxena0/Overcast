@@ -1,10 +1,10 @@
-# Weather App
+# Overcast
 
 A simple weather application that allows users to check real-time weather conditions for any city using the OpenWeather API.
 
 **Link to project:** [Weather App](https://weather-forecast-mr9d.onrender.com)
 
-![Weather App Screenshot](images/weather-project-img.png)
+![Weather App Screenshot](images/overcast.png)
 
 ## How It's Made:
 
