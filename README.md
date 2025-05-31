@@ -4,7 +4,7 @@ A simple weather application that allows users to check real-time weather condit
 
 **Link to project:** [Weather App](https://weather-forecast-mr9d.onrender.com)
 
-![Weather App Screenshot](images/overcast.png)
+![Weather App Screenshot](image/overcast.png)
 
 ## How It's Made:
 
